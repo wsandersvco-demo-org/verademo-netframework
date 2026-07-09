@@ -1,0 +1,2 @@
+default:
+  runs_on: windows-latest
